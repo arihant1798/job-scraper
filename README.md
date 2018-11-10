@@ -13,3 +13,5 @@ The aim is to help the user with the 'job hunting' and employment process.
 Implementation is to be done by using Python web scraping libraries/modules (mainly requests and BeautifulSoup).
 
 **Certain content (web pages, text) is not mine and is downloaded and used for educational and personal purposes only. Credit belongs to 'jobs.ie' and other parties**
+
+For more docs see https://docs.google.com/document/d/1rHewT78UPdIkNZOPc-dE_gBTFTMTklKMg_nob6IKajk/edit?usp=sharing
